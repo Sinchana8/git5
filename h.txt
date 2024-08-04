@@ -1,4 +1,8 @@
 hello
 happy learning
+<<<<<<< Updated upstream
 happy coding
 happy lol
+=======
+happy coding
+>>>>>>> Stashed changes
